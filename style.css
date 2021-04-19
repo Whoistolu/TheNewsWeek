@@ -1,7 +1,36 @@
+
 .first-header {
     background-color: rgb(246, 22, 2);
 }
 
-  #linklogo1 {
-    width: 35%;
-}  
+.logo1 {
+    width: 100%;
+}
+
+.our-date {
+    display: none;
+}
+
+.first-btn {
+    border-radius: 50%;
+    width: 85%;
+    height: 2rem;
+    
+}
+
+.first-btnn {
+    font-size: 40px;
+}
+
+.text-white {
+    font-size: 0.8rem;
+    padding-right: 2.5rem;
+}
+
+.menu {
+    color: #fff;
+}
+
+.logo2 {
+   width: 20%;
+}
