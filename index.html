@@ -13,26 +13,26 @@
     <title>Newsweek</title>
 </head>
 <body>
-    <header class="pt-5 position-fixed">
+    <header class="position-fixed">
         <nav class="d-flex justify-content-space-between align-items-center py-2 first-header">
             <div class="our-date">
                 <p>Wed, Jan 20, 2021</p>
             </div>
             <div>
                 <a href="#"><img src="/images/newsweek-logo-white.png" alt="newsweek-logo-white"
-                    class="img-fluid width max-width: 100% logo1 pl-2"></a>
+                    class="img-fluid logo1 pl-2"></a>
             </div>
             <div>
                 <a href="#" class="text-white pl-4">Login</a>
             </div>
             <div class="first-btnn">
-                <a href="#"><button type="button" class="btn btn-warning mr-5 first-btn">Subscribe ></button></a>
+                <a href="#"><button type="button" class="btn btn-warning p-0 mr-5 first-btn">Subscribe ></button></a>
             </div>
             <div>
                 <a class="pr-4" href="#"><i class="fas fa-bars menu"></i></a>
             </div>
         </nav>
-        <nav>
+        <nav class="second-header">
             <a href="#">U.S.</a>
             <a href="#">World</a>
             <a href="#">Business</a>
@@ -49,7 +49,7 @@
                 <i class="fas fa-search"></i>
             </form>
         </nav>
-        <nav>
+        <nav class="third-header">
             <a href="#">TRENDING</a>
             <a href="#">JOE BIDEN</a>
             <a href="#">DONALD TRUMP</a>
@@ -60,13 +60,16 @@
             <a href="#">CAPITOL RIOTS</a>
         </nav>
     </header>
-    <footer>
-        <div>
-            <div>
-                <a href="#" id="linklogo1"><img src="/images/newsweeklogo.png" alt="newsweeklogo" class="img-fluid logo2"></a>
-                <span>© 2021 NEWSWEEK DIGITAL LLC</span>
+    <footer class="d-flex flex-column pt-5 mx-2 footer1">
+        <div class="footer-head mt-4 d-flex flex-column">
+            <div id="linklogo1">
+                <a href="#"><img src="/images/newsweeklogo.png" alt="newsweeklogo" class="img-fluid logo2"></a>
+                
             </div>
             <div>
+                <span>© 2021 NEWSWEEK DIGITAL LLC</span>
+            </div>
+            <div class="icons d-flex pe-4">
                 <a href="#"><i class="fab fa-facebook-square"></i></a>
                 <a href="#"><i class="fab fa-twitter-square"></i></a>
                 <a href="#"><i class="fab fa-instagram-square"></i></a>
@@ -74,7 +77,7 @@
                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
-        <div>
+        <div class="footer-head2 d-flex flex-column justify-content-space-between pt-5">
             <nav>
                 <a href="#">Editions</a>
                 <a href="#">U.S Editions</a>
@@ -83,16 +86,19 @@
                 <a href="#">Polska</a>
                 <a href="#">Romania</a>
             </nav>
-            <nav>
+            
+        </div>
+        <div>
+            <nav class="footer-head3">
                 <a href="#">About us</a>
                 <a href="#">Corrections</a>
                 <a href="#">Contact us</a>
                 <a href="#">Editorial Guidelines</a>
-                <a href="#">Advertise</a>
+                <a href="#">Advertise</a><br>
                 <a href="#">Copyright</a>
                 <a href="#">Terms & Conditions</a>
                 <a href="#">Privicy policy</a>
-                <a href="#">Cookie Policy</a>
+                <a href="#">Cookie Policy</a><br>
                 <a href="#">Terms of sale</a>
                 <a href="#">Archive</a>
                 <a href="#">Announcements</a>

@@ -4,7 +4,7 @@
 }
 
 .logo1 {
-    width: 100%;
+   width: 100%;
 }
 
 .our-date {
@@ -12,14 +12,7 @@
 }
 
 .first-btn {
-    border-radius: 50%;
-    width: 85%;
-    height: 2rem;
-    
-}
-
-.first-btnn {
-    font-size: 40px;
+    width: 80%;
 }
 
 .text-white {
@@ -32,5 +25,38 @@
 }
 
 .logo2 {
-   width: 20%;
+   width: 80%;
+}
+
+.footer1 {
+    
+}
+
+.footer-head {
+   
+}
+
+#linklogo1 {
+    
+}
+
+.footer-head2 {
+    font-size: 1.2rem;
+    color: black;
+}
+
+.footer-head3 {
+    font-size: 1.2rem;
+    color: black;
+}
+
+.second-header {
+    display: none;
+}
+
+.third-header {
+    display: none;
+}
+
+.icons {
 }
