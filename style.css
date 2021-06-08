@@ -1,0 +1,38 @@
+.nav-logo {
+    width: 100%;
+}
+
+.footer-logo{
+    width: 65%;
+    height: auto;
+}
+
+.footer-second-ul {
+    border-right: 0px solid white;
+}
+
+.my-red-title-card:hover {
+    color: red !important;
+}
+
+
+@media (min-width: 768px) {
+    .nav-logo {
+        width: 45%;
+    }
+
+    .footer-logo {
+        width : 70%;
+        height : auto;
+    }
+
+    
+}
+@media all and (min-width: 992px) {
+    .my_red_header-list li > a:hover{
+        color: red !important;
+    }
+    .ali-fit{
+        width: fit-content;
+    }
+}
