@@ -1,13 +1,13 @@
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet
 
-# Project Name
+# Project-3-Newsweek
 
 A clone of www.newsweek.com landing page.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./newsweek1.png)
 
-This is a responsive deign and a clone of www.newsweek.com with the use of Semantic HTML5, CSS3, Bootstrap CSS classes everywhere for styling using the mobile first approach then the tablet and the desktop screen
+Project 3: This is a responsive design and a clone of www.newsweek.com with the use of Semantic HTML5, CSS3, Bootstrap CSS classes everywhere for styling using the mobile first approach then the tablet and the desktop screen
 
 ## Built With
 
