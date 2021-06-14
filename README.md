@@ -6,7 +6,6 @@ A clone of www.newsweek.com landing page.
 
 Project 3: This is a responsive design and a clone of www.newsweek.com with the use of Semantic HTML5, CSS3, Bootstrap CSS classes everywhere for styling using the mobile first approach then the tablet and the desktop screen.
 
-[Original Site](https://www.newsweek.com/)
 
 ## Built With
 
