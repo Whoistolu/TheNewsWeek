@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Project-3-Newsweek
 
 A clone of www.newsweek.com landing page.
